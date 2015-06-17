@@ -1,2 +1,2 @@
-# Coursera, Exploratory Data Analysis - project 2
-Exploratory Data Analysis - project 2
+# Coursera Exploratory Data Analysis
+# Project 2
